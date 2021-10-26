@@ -43,7 +43,27 @@
     border-radius: 50%;
   }
 #cardstock{
+    margin-top: 20px;
     height: 404px;
+    border-width: 5;
+    border-style: dotted;
+    border-color: black;
+    padding-bottom: 25px;
+    padding-top: 25px;
+    display: inline-flex;
+    flex-direction: row;
+    justify-content:space-evenly;
+    padding-left: 20px;
+}
+.innerRectangle{
+    width: 75%;
+    height: 300 px;
+    background-color: wheat;
+    box-shadow: thistle;
+    border-width: 10px;
+    border-right: 10px;
+    padding-left: 20px;
+    margin-block: 10px;
 }
 .txtbox{
     width: 600px;
