@@ -1,0 +1,51 @@
+*{
+}
+.banner{
+    width: 100%;
+}
+#graphbox {
+    height: 300px;
+    border-width: 5;
+    border-style: solid;
+    border-color: black;
+    padding-bottom: 25px;
+    padding-top: 25px;
+    display: inline-flex;
+    flex-direction: row;
+    justify-content:space-evenly;
+    padding-left: 20px;
+
+
+    
+}
+.column{
+    width: 100px;
+    height: 600 px;
+    background-color: rgb(147, 9, 202);
+    border-block-start-width: 2px;
+    border-block-end-width: 2px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.rectangle{
+    width: 600px;
+    height: 200 px;
+    background-color: rgb(9, 202, 35);
+    border-block-start-width: 2px;
+    border-block-end-width: 2px;
+    padding-left: 20px;
+    margin-block: 10px;
+}
+.circle {
+    height: 300px;
+    width: 300px;
+    background-color:rgb(9, 148, 241);
+    border-radius: 50%;
+  }
+#cardstock{
+    height: 404px;
+}
+.txtbox{
+    width: 600px;
+    height: 600px;
+}
