@@ -66,6 +66,15 @@
     margin-block: 10px;
 }
 .txtbox{
-    width: 600px;
+    width: 750px;
     height: 600px;
+    display: inline-flex;
+    float: left;
+    justify-content: space-evenly;
+    background-color: wheat;
+    box-shadow: 10px 10px rgb(107, 105, 105);
+    border-width: 10px;
+    border-right: 10px;
+    padding-left: 20px;
+    margin-block: 10px;
 }
